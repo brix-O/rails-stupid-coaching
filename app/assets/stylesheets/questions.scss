@@ -1,0 +1,45 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+body {
+  margin: 100px;
+
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+  }
+
+  h1 {
+    color: #00A8b5;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 48px;
+  }
+}
+
+
+
+
+
+
+#input {
+  padding: 8px;
+  padding-right: 100px;
+  margin-right: 8px;
+}
+
+#button {
+  background: #F3AE4B;
+  padding: 8px;
+}
+
+.author {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.output {
+  background: #F0ECE2;
+}
